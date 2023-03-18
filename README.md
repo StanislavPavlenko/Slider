@@ -1,2 +1,2 @@
-# goit-markup-hw-04 slider
+slider # goit-markup-hw-04 
  
